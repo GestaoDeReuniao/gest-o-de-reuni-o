@@ -1,4 +1,5 @@
 #coding:utf-8
+
 class Pessoa:
     def __init__(self,matricula,nome,cpf,cidade,endereco,email):
         self.matricula = matricula
